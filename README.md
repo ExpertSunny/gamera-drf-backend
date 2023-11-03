@@ -14,6 +14,7 @@
 * Scalability and Reliability: Engineered with scalability in mind, the backend architecture ensures efficient handling of increasing user loads and evolving features.
 
 ## Screenshots
+![Screenshot_20231103_193741](https://github.com/ExpertSunny/gamera-drf-backend/assets/15859928/b81819b7-7a4e-49d2-aea4-53d8214a1ffd)
 ![Screenshot_20231103_193808](https://github.com/ExpertSunny/gamera-drf-backend/assets/15859928/ba587336-6e5e-4549-8937-6643b5dc6549)
 ![Screenshot_20231103_193824](https://github.com/ExpertSunny/gamera-drf-backend/assets/15859928/faf3c02b-5abc-4fa0-93c8-9de4510e7b7e)
 ![Screenshot_20231103_193837](https://github.com/ExpertSunny/gamera-drf-backend/assets/15859928/a48020ff-27ed-4fb9-a692-ae17d62751c9)
